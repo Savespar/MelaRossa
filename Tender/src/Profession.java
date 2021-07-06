@@ -1,0 +1,4 @@
+public enum Profession {
+    CARPENTER, MASON, ELECTRICIAN; //PAINTER, PLUMBER,  WELDER, ASSISTANT;
+
+}
